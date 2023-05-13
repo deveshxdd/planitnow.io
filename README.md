@@ -38,6 +38,5 @@ planitnow is a front-end website for a travel agency. The website contains detai
   <img src="https://contrib.rocks/image?repo=Arun9739/Paryatana"/>
 </a>
 
- [MIT Licensed](https://github.com/Arun9739/Paryatana/blob/main/LICENSE)
 
 
